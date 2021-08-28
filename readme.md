@@ -12,7 +12,7 @@
 
 <h3 align="center">Technologies thast i use!</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/language-HTML-red"/>
+    <img href="https://www.w3schools.com/html/default.asp" src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-CSS-blue"/>
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
 </p>
