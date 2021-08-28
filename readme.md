@@ -15,14 +15,21 @@
     <a href="https://www.w3schools.com/html/default.asp">
         <img src="https://img.shields.io/badge/language-HTML-red"/>
     </a>
-    <img src="https://img.shields.io/badge/language-CSS-blue"/>
-    <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
+    <a href="https://www.w3schools.com/css/default.as">
+        <img src="https://img.shields.io/badge/language-CSS-blue"/>
+    </a>
+    <a href="https://www.w3schools.com/js/default.asp">
+        <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
+    </a>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/language-PHP-purple"/>
-    <img src="https://img.shields.io/badge/Framework-Java-brightgreen"/>
-    <img src="https://img.shields.io/badge/Framework-Flutter-orange"/>
+    <a href="https://www.w3schools.com/php/default.asp">
+        <img src="https://img.shields.io/badge/language-PHP-purple"/>
+    </a>
+    <a href="https://www.w3schools.com/java/default.asp">
+        <img src="https://img.shields.io/badge/Framework-Java-brightgreen"/>
+    </a>
 </p>
 
 <h5 align="center">In case you want to see some projects made by me <a href="https://luanlipperthoffmann.github.io/L/" target="blank">click-here</a></h5>
