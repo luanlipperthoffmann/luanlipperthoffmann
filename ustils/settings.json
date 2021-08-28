@@ -1,0 +1,88 @@
+{
+    // resgras
+    "editor.rulers": [80, 120],
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single",
+
+    // pastas / arquivos
+    "explorer.compactFolders": false,
+
+    // auto import
+    "typescript.suggest.autoImports": true,
+    "javascript.suggest.autoImports": true,
+
+    // themas
+    "workbench.colorTheme": "Dracula Soft",
+    "workbench.iconTheme": "material-icon-theme",
+
+    // material icon
+    "material-icon-theme.files.associations": {
+        "**.php": "php_elephant",
+        "**.yml": "docker",
+        "composer.json": "jenkins"
+    },
+    "material-icon-theme.folders.associations": {
+        "www": "public",
+        "migrations": "tools",
+        "Dao": "database",
+        "pw": "tasks"
+    },
+
+    // Font
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira code",
+    "editor.fontSize": 14,
+
+    // prettier
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true, // save automatico
+
+    // emmet
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+
+    // css
+    "html-css-class-completion.enableEmmetSupport": true,
+    "html-css-class-completion.includeGlobPattern": "**/*.{css,html,php,js}",
+
+    // docker
+    "docker.images.label": "CreatedTime",
+
+    // live server
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    // sass
+    // "liveSassCompile.settings.formats": [
+    //     {
+    //         "format": "expanded",
+    //         "extensionName": ".css",
+    //         "savePath": "www/pw/public/css" // caminho dos arquivos
+    //     }
+    // ],
+
+    // spell code
+    "cSpell.language": "en,pt,pt_BR",
+
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "cSpell.userWords": [
+        "minlength"
+    ]
+}

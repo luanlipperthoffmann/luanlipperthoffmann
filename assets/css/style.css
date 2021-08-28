@@ -1,0 +1,34 @@
+body, html {
+    height: 100vh;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;left: 0;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.transition {
+    transition: 500ms;
+}
+
+.hover-link:hover {
+    box-shadow: none!important;
+    cursor: pointer;
+}
+
+.img-card {
+    height: 100px;
+    width: 100px;
+}
+
+.img-perf {
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
+    min-height: 200px;
+    min-width: 200px;
+}
