@@ -15,7 +15,7 @@
     <a href="https://www.w3schools.com/html/default.asp">
         <img src="https://img.shields.io/badge/language-HTML-red"/>
     </a>
-    <a href="https://www.w3schools.com/css/default.as">
+    <a href="https://www.w3schools.com/css/default.asp">
         <img src="https://img.shields.io/badge/language-CSS-blue"/>
     </a>
     <a href="https://www.w3schools.com/js/default.asp">
