@@ -24,20 +24,20 @@
     <img src="https://img.shields.io/badge/language-scss-purple"/>
 </p>
 
-<h5 align="center">In case you want to see some projects made by me <a href="https://douglasserena.github.io/L/" target="blank">click-here</a></h5>
+<h5 align="center">In case you want to see some projects made by me <a href="https://luanlipperthoffmann.github.io/L/" target="blank">click-here</a></h5>
 
 <h3 align="center">About my building</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/douglas-serena-44ab721a0/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DouglasSerena" height="20" width="20" />
+    <a href="https://www.linkedin.com/in/luan-lippert-hoffmann/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LuanLipperthoffmann" height="20" width="20" />
     </a>
-    <a href="https://www.facebook.com/douglas.serena.9" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="DouglasSerena" height="20" width="20" />
+    <a href="https://www.facebook.com/luan.lipperthoffmann.1" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="LuanLipperthoffmann" height="20" width="20" />
     </a>
-    <a href="https://www.instagram.com/douglas_serena/?hl=pt-br" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="DouglasSerena" height="20" width="20" />
+    <a href="https://www.instagram.com/luanlippert/?hl=pt-br" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="LuanLipperthoffmann" height="20" width="20" />
     </a>
 </p>
 
-![Snake animation](https://github.com/Luan>ippertHoffmann/LuanLippertHoffmann/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuanLippertHoffmann/LuanLippertHoffmann/blob/output/github-contribution-grid-snake.svg)
