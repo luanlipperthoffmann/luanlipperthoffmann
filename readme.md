@@ -11,12 +11,7 @@
 </div>
 
 <h3 align="center">Technologies thast i use!</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/language-TypeScript-blue"/>
-    <img src="https://img.shields.io/badge/Framework-Node-brightgreen"/>
-    <img src="https://img.shields.io/badge/Framework-Angular-orange"/>
-    <img src="https://img.shields.io/badge/Framework-React-blue"/>
-</p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
     <img src="https://img.shields.io/badge/language-HTML-red"/>
@@ -24,7 +19,7 @@
     <img src="https://img.shields.io/badge/language-scss-purple"/>
 </p>
 
-<h5 align="center">In case you want to see some projects made by me <a href="https://luanlipperthoffmann.github.io/L/" target="blank">click-here</a></h5>
+<h5 align="center">In case you want to see some projects made by me <a href="https://github.com/luanlipperthoffmann/luanlipperthoffmann.github.io" target="blank">click-here</a></h5>
 
 <h3 align="center">About my building</h3>
 
@@ -40,4 +35,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/LuanLippertHoffmann/LuanLippertHoffmann/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luanlipperthoffmann/luanlipperthoffmann/blob/output/github-contribution-grid-snake.svg)
