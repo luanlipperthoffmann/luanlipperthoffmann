@@ -48,4 +48,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/luanlipperthoffmann/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luanlipperthoffmann/luanlipperthoffmann/blob/output/github-contribution-grid-snake.svg)
