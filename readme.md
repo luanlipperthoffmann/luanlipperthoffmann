@@ -24,9 +24,6 @@
 </p>
 
 <p align="center">
-    <a href="https://www.w3schools.com/php/default.asp">
-        <img src="https://img.shields.io/badge/language-PHP-purple"/>
-    </a>
     <a href="https://www.w3schools.com/java/default.asp">
         <img src="https://img.shields.io/badge/Framework-Java-brightgreen"/>
     </a>
