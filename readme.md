@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/language-HTML-red"/>
     </a>
     <a href="https://www.w3schools.com/css/default.asp">
-        <img src="https://img.shields.io/badge/language-CSS-blue"/>
+        <img src="https://img.shields.io/badge/language-CSS-blueviolet"/>
     </a>
     <a href="https://www.w3schools.com/js/default.asp">
         <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
@@ -26,6 +26,9 @@
 <p align="center">
     <a href="https://www.w3schools.com/java/default.asp">
         <img src="https://img.shields.io/badge/Framework-Java-brightgreen"/>
+    </a>
+    <a href="https://www.w3schools.com/python/default.asp">
+        <img src="https://https://img.shields.io/badge/Framework-Python-blue"/>
     </a>
 </p>
 
