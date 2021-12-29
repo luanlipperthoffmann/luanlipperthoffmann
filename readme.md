@@ -28,7 +28,7 @@
         <img src="https://img.shields.io/badge/Framework-Java-brightgreen"/>
     </a>
     <a href="https://www.w3schools.com/python/default.asp">
-        <img src="https://https://img.shields.io/badge/Framework-Python-blue"/>
+        <img src="https://img.shields.io/badge/Framework-Python-blue"/>
     </a>
 </p>
 
